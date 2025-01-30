@@ -4,7 +4,7 @@
 
 ### The directory representation 
 
-```cpu-emulator/```
+```cpu-emulator/```<br>
 ```├── src/                    # Source code for the CPU emulator```
 ```│   ├── cpu/                # Core CPU components```
 ```│   │   ├── alu.py          # Arithmetic Logic Unit implementation```
