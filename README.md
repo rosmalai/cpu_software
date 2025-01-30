@@ -4,7 +4,7 @@
 
 ### The directory representation 
 
-cpu-emulator/<br>
+<!-- cpu-emulator/<br>
 ├── src/                    # Source code for the CPU emulator<br>
 │   ├── cpu/                # Core CPU components<br>
 │   │   ├── alu.py          # Arithmetic Logic Unit implementation<br>
@@ -34,4 +34,20 @@ cpu-emulator/<br>
 │   └── run_emulator.sh     # Script to run the emulator<br>
 ├── requirements.txt        # Python dependencies<br>
 ├── README.md               # Project overview and instructions<br>
-└── .gitignore              # Files to ignore in version control<br>
+└── .gitignore              # Files to ignore in version control<br> -->
+
+
+## Arithmatic operations 
+ -[]ADD
+ -[]SUB
+ -[]MUL
+ -[]DIV
+
+## Logical operations
+-[]AND
+-[]OR
+-[]NOT
+-[]XOR
+-[]SHL
+-[]SHR
+
